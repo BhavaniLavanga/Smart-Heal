@@ -13,8 +13,8 @@ SmartHeal is a comprehensive health management system designed to streamline hea
 
 For code, please reach out to:
 
-- **Email**: [mirzarafiqahmedc1@gmail.com](mailto:mirzarafiqahmedc1@gmail.com)
-- **GitHub**: [mirza7175](https://github.com/mirza7175)
+- **Email**: [lavangabhavani@gmail.com](mailto:lavangabhavani@gmail.com)
+- **GitHub**: [BhavaniLavanga](https://github.com/BhavaniLavanga)
 
 ---
 
