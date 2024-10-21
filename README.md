@@ -47,7 +47,7 @@ To set up the project locally, follow these steps:
    - Start the client:
      ```bash
      cd ../client
-     npm start
+     npm run dev
      ```
 
 ## Contact
